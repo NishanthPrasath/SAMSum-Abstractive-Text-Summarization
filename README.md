@@ -23,6 +23,8 @@ The performance of each model was evaluated using the ROUGE metric. Among these 
 
 The final BART model was deployed on Hugging Face Spaces using the Streamlit framework. The application allows users to enter a dialogue or text to be summarized and generates a summary of the input text.
 
+![Image](https://github.com/NishanthPrasath/SAMSum-Abstractive-Text-Summarization/assets/114884510/c9170191-2273-48a2-862d-4a9b09249679)
+
 You can access the application [here](https://huggingface.co/spaces/nishanthp/text-summarization-with-bart)
 
 ## Contributors
